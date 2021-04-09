@@ -1,0 +1,15 @@
+site_name: Wizeline MkDocs Template
+nav:
+  - Home: index.md
+  - About: about.md
+  - Education: page-education.md
+  - Experience: page-experience.md
+  - Skills: page-skills.md
+  - Past Work: page-selected work.md
+
+theme:
+  name: material
+  palette:
+    primary: black
+    accent: indigo
+  logo: images/wizeline_isotype.png
